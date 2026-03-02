@@ -42,7 +42,8 @@ Run the script *(depending on your terminal)*:
 
 I set the time zone to the one I need. You will need to modify this if you are in another time zone. 
 
-Make sure your terminal can access your time zone properly or it will automatically use UTC.
+Make sure your terminal can access your time zone properly or it will automatically use UTC. I use the iSH app and keep the files on my phone so I can quickle log migraines from my phone, and I needed to install the package for it to use the right time zone.
+Time zone package : apk add tzdata
 
 
 
@@ -113,4 +114,5 @@ Pain: 7
 Symptoms: Throbbing, light sensitivity
 
 Trigger: Stress
+
 
